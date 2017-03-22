@@ -1,0 +1,136 @@
+body {
+    margin: 0px;
+    height: 1900px;
+}
+
+.container {
+    width: 100%;
+    height: 90px;
+}
+
+.logo {
+    font-family: Roboto;
+    font-size: 150%;
+    text-align: center;
+    float: left;
+    margin-left: 2%;
+}
+
+.donate {
+    font-family: Roboto;
+    font-size: 100%;
+    text-align: center;
+    float: right;
+    margin-right: 10%;
+    margin-top: 2.5%;
+}
+
+.learn {
+    font-family: Roboto;
+    font-size: 100%;
+    text-align: center;
+    float: right;
+    margin-right: 2%;
+    margin-top: 2.5%;
+}
+
+.show {
+    font-family: Roboto;
+    font-size: 100%;
+    text-align: center;
+    float: right;
+    margin-right: 2%;
+    margin-top: 2.5%;
+}
+
+.parallaxsection {
+    width: 100%;
+    height: 400px;
+    background: url(images/pexels-photo-248812.jpeg) fixed no-repeat;
+    background-size: cover;
+}
+
+.containersec {
+    height: 380px;
+    margin-top: 5%;
+    font-family: Roboto;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+}
+
+a:hover {
+    color: green;
+}
+
+.panda {
+    margin-left: .5%;
+    margin-top: .5%;
+    width: 5%;
+    position: relative;
+}
+
+.parallaxtwo {
+    width: 100%;
+    height: 400px;
+    background: url(images/bamboo-943770_1920.jpg) fixed no-repeat;
+    background-size: cover;
+}
+
+.gallery {
+    text-align: center;
+    padding-bottom: 1%;
+    margin-top: 5%;
+    font-family: Roboto;
+}
+
+.pandaone {
+    width: 25%;
+    height: 50%;
+}
+
+.pandaone:hover {
+    opacity: .8;
+}
+
+.pandatwo {
+    width: 25%;
+    height: 50%;
+}
+
+.pandatwo:hover {
+    opacity: .8;
+}
+
+.pandathree {
+    width: 25%;
+    height: 50%;
+}
+
+.pandathree:hover {
+    opacity: .8;
+}
+
+.pandafour {
+    width: 25%;
+    height: 50%;
+}
+
+.pandafour:hover {
+    opacity: .8;
+}
+
+.pandafive {
+    width: 25%;
+    height: 50%;
+}
+
+.pandafive:hover {
+    opacity: .8;
+}
